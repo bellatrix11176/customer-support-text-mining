@@ -30,12 +30,11 @@ customer-support-text-mining/
 ## Setup (Windows)
 
 ```bat
-cd /d "C:\Users\gigih\OneDrive\School\Week5\Chapter10"
-py -m venv .venv
-.venv\Scripts\activate
+Setup (Windows)
+
+cd /d "PATH\TO\customer-support-text-mining"
 
 pip install -r requirements.txt
 py -c "import nltk; nltk.download('stopwords')"
 
 py src\text_mining.py
-```
