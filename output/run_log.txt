@@ -1,0 +1,39 @@
+Customer Support Text Mining - Run Log
+========================================
+Run timestamp: 2026-02-08 14:52:11
+Project root: C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining
+Input file:    C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\data\customer_support_text_corpus.txt
+
+Unique tokens (after filtering): 13528
+Tokens with total >= 250: 66
+
+Top 20 tokens:
+    word  total
+ problem    917
+  amazon    828
+    help    796
+   phone    693
+   issue    635
+ account    610
+ service    531
+    work    502
+   apple    481
+    says    464
+  screen    462
+   tried    461
+  iphone    434
+   using    429
+    even    418
+ windows    401
+customer    397
+   order    396
+   can't    395
+ support    385
+
+Generated outputs:
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\token_frequencies_all.csv
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\token_frequencies_ge_250.csv
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\text_mining_results.xlsx
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\summary_top20.txt
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\top_tokens_ge_250.png
+- C:\Users\gigih\OneDrive\School\Week4\GitHub\customer-support-text-mining\output\run_log.txt

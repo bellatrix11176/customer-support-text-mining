@@ -1,0 +1,24 @@
+Top 20 tokens:
+    word  total
+ problem    917
+  amazon    828
+    help    796
+   phone    693
+   issue    635
+ account    610
+ service    531
+    work    502
+   apple    481
+    says    464
+  screen    462
+   tried    461
+  iphone    434
+   using    429
+    even    418
+ windows    401
+customer    397
+   order    396
+   can't    395
+ support    385
+
+Tokens with total >= 250: 66
