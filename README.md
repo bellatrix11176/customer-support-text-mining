@@ -38,3 +38,7 @@ pip install -r requirements.txt
 py -c "import nltk; nltk.download('stopwords')"
 
 py src\text_mining.py
+```
+🌐 **PixelKraze Analytics (Portfolio):** https://pixelkraze.com/?utm_source=github&utm_medium=readme&utm_campaign=portfolio&utm_content=homepage
+
+
